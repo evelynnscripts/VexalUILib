@@ -5,5 +5,5 @@ Currently supports:
 - Creating Tabs
 - Creating Buttons
 ---
-![Preview](image.png)
+![Preview](preview-6-26)
 ---
