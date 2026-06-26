@@ -1,2 +1,9 @@
-**UI is in the work, it might take me alot longer to release it. inspired by WindUI.**
+## VexalUI - An Inspired UI Library
+This UI library was inspired by WindUI and is in the work for its design and functionality.
+Currently supports: 
+- Creating Windows
+- Creating Tabs
+- Creating Buttons
+---
 ![Preview](image.png)
+---
